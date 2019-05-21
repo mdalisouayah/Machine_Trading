@@ -1,0 +1,2 @@
+- this folder contains the notebook for the simulation of trades by the model as compared to the market
+- the x folder is a trash bin for older version notebooks of the same exercise
