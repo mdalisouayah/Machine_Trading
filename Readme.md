@@ -1,0 +1,4 @@
+- The code folder has all the notebooks used in this project. 
+- The report folder contains the executive summary and the accompanying images
+- The sources folder contains links to the different libraries used in this project
+- The x folder is trash bin, it contains retired files
